@@ -1,0 +1,16 @@
+{
+  "api": [
+    "fresh database and local demo config",
+    "real SQLite all-member intersection and private response",
+    "overwrite, empty availability, concurrent atomic writes",
+    "invalid inputs and cross-origin demo writes rejected"
+  ],
+  "browser": [
+    "desktop result and actual sample control",
+    "no-common state, insufficient state, persona switch, form submit",
+    "390px mobile layout without horizontal overflow"
+  ],
+  "persistence": true,
+  "bundledRuntime": true,
+  "checkedAt": "2026-10-18T08:19:02.611Z"
+}
